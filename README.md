@@ -27,4 +27,4 @@
 ```
 Далее заходим по адресу 127.0.0.1, логин пароль: Admin zabbix, идем в Configuration-Hosts-Zabbix server и в поле Agent IP address пишем ip-адрес запущенного контейнера с агентом.
 Затем настраиваем необходимые графики на dashboard.
-![zabbix]([http://url/to/img.png](https://github.com/Dekkert/dz14_prometheus_zabbix/blob/master/zabbix.png)https://github.com/Dekkert/dz14_prometheus_zabbix/blob/master/zabbix.png)
+![zabbix](https://github.com/Dekkert/dz14_prometheus_zabbix/blob/master/zabbix.png)https://github.com/Dekkert/dz14_prometheus_zabbix/blob/master/zabbix.png)
